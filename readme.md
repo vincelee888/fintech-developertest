@@ -2,6 +2,10 @@
 
 A recent tech test I completed, but got rejected for :(
 
+Test instructions:
+
+https://github.com/vincelee888/fintech-developertest/blob/master/CandiateInstructions.md
+
 Feedback:
 
 + Payment service is quite readable
